@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-generativeai
+chromadb
+python-multipart
+pydantic
+python-dotenv
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-embeddings-fastembed
